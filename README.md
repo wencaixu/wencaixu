@@ -1,9 +1,9 @@
 ##### 最近研究技术计划（2020.07.18~2020.08.15）：
 
-| <font color=#00ffff size=10>相关技术 </font>  | 参考文档    |
+| <font size=7>相关技术 </font>  | <font size=7>参考文档</font>    |
 | --------   | ----- |
-| Redis      | https://github.com/redis/redis 和 http://www.redis.cn/    | 
-| Jenkins    | https://www.jenkins.io/zh/      | 
+| <font size=7>Redis  </font>    | <font size=7>https://github.com/redis/redis 和 http://www.redis.cn/  </font>  | 
+| <font size=7>Jenkins </font>   | <font size=7>https://www.jenkins.io/zh/  </font>    | 
 
 ##### 个人公众号平台：
  <p align="left">
