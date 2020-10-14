@@ -6,6 +6,7 @@
 | <font size=7>Kafka </font>   | <font size=7>http://kafka.apache.org/ </font>    | 
 | <font size=7>Activemq </font>   | <font size=7>http://activemq.apache.org/activemq-5156-release.html </font>   | 
 
+https://github-readme-stats.vercel.app/api?username=wencaixu&show_icons=true&count_private=true&hide=prs&theme=default_repocard
 <!-- ##### 个人公众号平台：
 <p align="left">
      <img src="https://github.com/wencaixu/wencaixu/blob/master/20200712204129909.png" 
