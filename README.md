@@ -14,4 +14,12 @@
      height=80px
      width=80px
      alt="撩一撩">
- </p>-->
+ </p>
+
+https://www.tuyrk.cn/imooc/1297-MQ-Kafka/04-kafka-log-collect/
+https://patents.google.com/patent/CN104933114A/zh
+https://www.javazhiyin.com/63922.html
+https://www.infoq.cn/article/evg_nlkel6ed8wqwltrq
+https://www.infoq.cn/article/evg_nlkel6ed8wqwltrq
+
+-->
