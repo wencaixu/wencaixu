@@ -5,7 +5,6 @@
 | <font size=7>相关技术 </font>  | <font size=7>参考文档</font>    |
 | --------   | ----- |
 | <font size=7>Redis  </font>    | <font size=7>https://github.com/redis/redis 和 http://www.redis.cn/  </font>  | 
-| <font size=7>Leetcode</font>   | <font size=7>https://leetcode.com/wencaixu/ </font>    | 
 | <font size=7>Stackoverflow </font>   | <font size=7>https://stackoverflow.com/</font>   | 
 
 <!-- ##### 个人公众号平台：
