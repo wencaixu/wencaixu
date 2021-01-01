@@ -5,6 +5,9 @@
 | <font size=7>相关技术 </font>  | <font size=7>参考文档</font>    |
 | --------   | ----- |
 | <font size=7>Redis  </font>    | <font size=7>https://github.com/redis/redis 和 http://www.redis.cn/  </font>  | 
+| <font size=7>Kafka  </font>    | <font size=7>http://kafka.apache.org/</font>  | 
+| <font size=7>ActiveMQ  </font>    | <font size=7>https://activemq.apache.org/ </font>  | 
+| <font size=7>rabbitmq  </font>    | <font size=7>https://www.rabbitmq.com/ </font>  | 
 | <font size=7>Stackoverflow </font>   | <font size=7>https://stackoverflow.com/</font>   | 
 
 <!-- ##### 个人公众号平台：
