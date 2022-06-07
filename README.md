@@ -12,6 +12,10 @@
      <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
      <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>       </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wencaixu&label=Profile%20views&color=0e75b6&style=flat" alt="wencaixu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wencaixu" alt="wencaixu" /></a> </p>
+
 ### 本季度(3~4月)待办项 👋
 <details>
 
@@ -29,10 +33,6 @@
  * Vue基础学习实践
      
 </details>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wencaixu&label=Profile%20views&color=0e75b6&style=flat" alt="wencaixu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wencaixu" alt="wencaixu" /></a> </p>
 
 ##### 最近研究技术计划缓存队列（2020.07.18~2020.12.20）：
 
