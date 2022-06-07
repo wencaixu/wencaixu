@@ -30,9 +30,11 @@
      
 </details>
 
-##### 最近研究技术计划缓存队列（2020.07.18~2020.12.20）：
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wencaixu&label=Profile%20views&color=0e75b6&style=flat" alt="wencaixu" /> </p>
 
-![info](https://github-readme-stats.vercel.app/api?username=wencaixu&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wencaixu" alt="wencaixu" /></a> </p>
+
+##### 最近研究技术计划缓存队列（2020.07.18~2020.12.20）：
 
 | <font size=7>相关技术 </font>  | <font size=7>参考文档</font>    |
 | --------   | ----- |
@@ -42,12 +44,7 @@
 | <font size=7>rabbitmq  </font>    | <font size=7>https://www.rabbitmq.com/ </font>  | 
 | <font size=7>Stackoverflow </font>   | <font size=7>https://stackoverflow.com/</font>   | 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wencaixu&label=Profile%20views&color=0e75b6&style=flat" alt="wencaixu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wencaixu" alt="wencaixu" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wencaixu&show_icons=true&locale=en" alt="wencaixu" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wencaixu&show_icons=true&locale=en" alt="wencaixu" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wencaixu&" alt="wencaixu" /></p>
 
