@@ -55,8 +55,10 @@ https://www.infoq.cn/article/evg_nlkel6ed8wqwltrq
      <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>       
 </p>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wencaixu&label=Profile%20views&color=0e75b6&style=flat" alt="wencaixu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wencaixu" alt="wencaixu" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wencaixu&" alt="wencaixu" /></p>
+-->
